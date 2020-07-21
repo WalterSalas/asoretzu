@@ -1,6 +1,6 @@
 ### Hi there, I'm Néstor Arellano. 👋:smiley: ¡Bienvenido! :us: :mexico:
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-brightgreen) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Asoretzu/)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![relationship](https://img.shields.io/badge/Relationship-Single-blue) ![gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)  ![platzi](https://img.shields.io/badge/Platzi-Data_Science-brightgreen) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Asoretzu/)
 
 ```python
 nestor = {
