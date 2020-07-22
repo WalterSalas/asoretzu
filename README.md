@@ -10,7 +10,7 @@ nestor = {
     technologies: {
         data_science: ['Jupyter', 'Anaconda', 'R Studio', 'Google Colab'],
         back_end: ['Flask', 'Django'],
-        dev_ops: ['AWS', 'GCP' 'Docker', 'Git', 'GitHub', 'GitLab'],
+        dev_ops: ['AWS', 'GCP' 'Docker', 'Git', 'GitHub', 'GitLab', 'Ubuntu'],
         databases: ['PostgreSQL', 'MongoDB'],
         libraries: ['Pandas', 'NumPy', 'TensorFlow', 'Scikit-Learn', 'Keras', 'Requests', 'XPath'],
     },
