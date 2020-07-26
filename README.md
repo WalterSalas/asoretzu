@@ -14,7 +14,7 @@ nestor = {
         databases: ['PostgreSQL', 'MongoDB'],
         libraries: ['Pandas', 'NumPy', 'TensorFlow', 'Scikit-Learn', 'Keras', 'Requests', 'XPath'],
     },
-    current_projects: ['Kairos Shop', 'Rosalind API'],
+    current_projects: ['Kairos Shop'],
     fun_fact: 'I am a Data Scientist because of my studies in Orchestral Conducting. Ask me why.'
 }
 ```
