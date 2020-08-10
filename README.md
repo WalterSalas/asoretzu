@@ -4,9 +4,9 @@
 
 ```python
 nestor = {
-    code: ['Python', 'R'],
+    code: ['Python', 'R', Yulia],
     currently_learning: 'Platzi Master',
-    ask_me_about: ['Data Science', 'Bioinformatics', 'Maths', 'Physics'],
+    ask_me_about: ['Data Science', 'Machine Learning', 'Bioinformatics', 'Maths', 'Physics'],
     technologies: {
         data_science: ['Jupyter', 'Anaconda', 'R Studio', 'Google Colab'],
         back_end: ['Flask', 'Django'],
