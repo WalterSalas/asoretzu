@@ -4,7 +4,7 @@
 
 ```python
 nestor = {
-    code: ['Python', 'R', Yulia],
+    code: ['Python', 'R', 'Yulia'],
     currently_learning: 'Platzi Master',
     ask_me_about: ['Data Science', 'Machine Learning', 'Bioinformatics', 'Maths', 'Physics'],
     technologies: {
