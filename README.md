@@ -7,12 +7,10 @@ nestor = {
     code: ['C#', 'GDScript', 'Python', 'Javascript'],
     currently_learning: 'Platzi Master',
     ask_me_about: ['Game Development', 'Game Design', 'Narrative', 'Maths'],
-
     technologies: {
         game_engines: ['Unity', 'Godot'],
         os: ['GNU/Linux', 'Windows 10'],
     },
-
     current_projects: ['Flappy Gift'],
     fun_fact: 'I am a Game Developer because of my studies in Orchestral Conducting. Ask me why.'
 }
