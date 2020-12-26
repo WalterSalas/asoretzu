@@ -4,14 +4,15 @@
 
 ```python
 nestor = {
-    code: ['C#', 'GDScript', 'Python'],
+    code: ['C#', 'GDScript', 'Python', 'Javascript'],
     currently_learning: 'Platzi Master',
     ask_me_about: ['Game Development', 'Game Design', 'Narrative', 'Maths'],
+
     technologies: {
         game_engines: ['Unity', 'Godot'],
         os: ['GNU/Linux', 'Windows 10'],
-        
     },
+
     current_projects: ['Flappy Gift'],
     fun_fact: 'I am a Game Developer because of my studies in Orchestral Conducting. Ask me why.'
 }
@@ -35,18 +36,6 @@ You can reach me here:
   <img align="center" alt="itch.io" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/itch-dot-io.svg" />
 </a>
 
-
-
-<!--
-<a href="https://dev.to/asoretzu">
-  <img align="center" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dev-dot-to.svg" />
-</a>
--->
-
-
 <!--
 **Asoretzu/asoretzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/asoretzu)
-
 -->
